@@ -1,9 +1,8 @@
 # Bayesian Statistics Project
 
----
 
 ### Description
-Bayesian Linear Regression is performed on the Space Shuttle Challenger dataset to determine whether the tragedy could have been prevented from a Bayesian reasoning perspective. 
+Bayesian Linear Regression is performed on the Space Shuttle Challenger dataset in OpenBUGS to determine whether the tragedy could have been prevented from a Bayesian reasoning perspective. 
 
 ### Files:
 1. [SpaceShuttleChallenger_Project.pdf](SpaceShuttleChallenger_Project.pdf)
