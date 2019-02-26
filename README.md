@@ -10,6 +10,8 @@ Bayesian Linear Regression is performed on the Space Shuttle Challenger dataset 
     * Analysis & OpenBUGS output
 2. SpaceShuttle.odc
     * OpenBUGS code
+3. SpaceShuttleCode(.odc file).pdf
+	* OpenBUGS code
 
 ### Software:  
 OpenBUGS 3.2.3
